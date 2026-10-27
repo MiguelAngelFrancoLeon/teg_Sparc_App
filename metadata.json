@@ -1,0 +1,6 @@
+{
+  "name": "Tetrahedral Emergent Gravity (TEG) SPARC Workbench",
+  "description": "Scientific astrophysics workbench testing Miguel Ángel Franco León's Tetrahedral Emergent Gravity (TEG) framework against SPARC galactic rotation curves with Aladin Lite imagery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
